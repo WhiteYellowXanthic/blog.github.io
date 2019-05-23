@@ -1,18 +1,19 @@
 ---
 layout: page
-title: About me 
+title: Verdigris' Resume 
 ---
 
 ### Personal Details
 
-|||
-| :--- | :--- |
+|-------------|--------|
 |**Name**:|Yanwei Zhang| 
 |**Date of Birth**:|1985/02/22|
 |**Gender**:|Male|
 |**Place of Living**:|Dalian|
 |**Marital Status**:|Married|
 |**Highest Education**:|Bachelor|
+|**Phone Number**:|15998483632|
+|**Email**:|verdigris@163.com|
 
 ### Personal Profile
 
@@ -43,8 +44,8 @@ I have abilities to architect system software, distributed network system and ap
 - **International System Research**  
   *2013/11 ~ 2015/11 **Senior Engineer***  
   **Responsibilities**
-    1. Implement the new authentication methods, such as Google One-Time password, Yubikey, and U2F.
-    1. Implement the OpenID connect specification and integrate it into the cloud system.
+    1. Implement the new authentication methods, such as `Google One-Time password`, `Yubikey`, and `U2F`.
+    1. Implement the `OpenID connect` specification and integrate it into the cloud system.
     1. Write the IT test framework for API and web automatic test, which will make the QA team's work more efficiently.
     1. Write the test cases to help the company got the U2F certification.
 
@@ -58,22 +59,69 @@ I have abilities to architect system software, distributed network system and ap
 
 ### Project Experience
 
-- *2017/08 ~ Present*
-
-  **Projects**
+- *2017/08 ~ Present*  
+  - **Projects**
     1. **Authentication Service**  
-        Authentication Service is an authentication center in the company, built with Spring Cloud and Spring Security. Most of the services and applications (include mobile APPs) rely on it.  
-    2. **Metadata Service**  
-        An independent service for metadata design, store, mapping, and query, that analyze the models' relationship and make the business service can query the various data in the same way.  
-    3. **API Lifecycle Management Service**  
-        Development tool for team cooperation improved the cooperation between the frontend team and the backend team.  
-    4. **JobEditor Service**  
-        A web editor for the Jenkins tasks' configurations, it was written with VueJS and Vuetify. Without any databases, only manipulate the GIT for storage.  
-    5. **DevOps Tools**  
-        A sticker tool connects the Jenkins, Kubernetes, Docker, and any other DevOps tools, create it to improve the development flows.
+      Authentication Service is an authentication center in the company, built with `Spring Cloud` and `Spring Security`. Most of the services and applications (include mobile APPs) rely on it.  
+    1. **Metadata Service**  
+      An independent service for metadata design, store, mapping, and query, that analyze the models' relationship and make the business service can query the various data in the same way.  
+    1. **API Lifecycle Management Service**  
+      Development tool for team cooperation improved the cooperation between the frontend team and the backend team.  
+    1. **JobEditor Service**  
+      A web editor for the `Jenkins` tasks' configurations, it was written with `VueJS` and `Vuetify`. Without any databases, only manipulate the `GIT` for storage.  
+    1. **DevOps Tools**  
+      A sticker tool connects the `Jenkins`, `Kubernetes`, `Docker`, and any other `DevOps` tools, create it to improve the development flows.
+  - **Responsibilities**
+    1. I created the above services alone, and for the services from 3 - 5, I've created them because of I know the problems exists in the team, thus I designed, architected and wrote them.
+    1. Create the frontend framework to make the module self-registrable.
 
-  **Responsibilities**  
-    I created the above services alone, and for the services from 3 - 5, I've created them because of I know the problems exists in the team, thus I designed, architected and wrote them.
+- *2016/11 ~ 2017/08 **Yi Jubao***  
+  A platform for the second-hand house trading, house replacement, and house renting, it manages the trade processes for the user and house broker.  
+  This project created on the sub-projects of `Spring Cloud`, it's a `microserice-oriented architecture` and deployed on the `Ali Cloud`.  
+  **Responsibilities**
+    1. Collect the requirements, and make it easy to understand to team members.
+    1. Coordinate the offline teams.
+    1. Architect the system, write the core code(include the frontend), workflow engine, IT test framework, and the scripts for automatic development.
+    1. Manage the daily works of the project.
+
+- *2016/01 ~ 2016/11 **ASKDOG / Video Coupon***  
+  A video QA website, user can share their experiences through the video or answers the questions in video/audio/text format.  
+  In the later period, fastly created a video coupon service for our customers because of the capital chain broken.  
+  **Responsibilities**
+    1. Build the team. 
+    1. Architect the system, write the core code(include the frontend written with `AngularJS`).
+    1. Refactor the frontend to make it scalable.
+    1. Write other services and H5 for market development.
+
+- *2013/11 ~ 2015/12 **CloudGate***  
+  An SSO solution with enhanced security, it's for the cloud services in the company.  
+  **Responsibilities**
+    1. Write the implementation of OpenID Connect.
+    1. Write the IT test framework and test cases.
+    1. Write kinds of authentication methods and security rules.
+
+- *2012/09 ~ 2013/03 **TG-Document / MDT 3*** 
+  An `iOS` application for PDF reading, will re-layout the characters when user zoom in/out the screen.  
+  **Responsibilities**
+    1. Manage the daily works of the project.
+    1. Implement the functions with a new workmate.
+
+- *2007/11 ~ 2012/10*  
+  - **Projects**
+    1. **BDLMX 2.0**  
+      XML document management system, written in VB.
+    1. **MW 1.0 ~ 2.3**  
+      Next generation of XML document management system, provides the document online edit, version management, approve process management, publishing management, and other serials functions. It aims the financial companies' rule-kind document management.
+    1. **AQ**  
+      An online tool for the materials‘ characteristics management, it was written with `Java` and `Flex`, with it the experts could manage the huge material's characteristics easily.
+    1. **MEPA 1.0 ~ 2.3**  
+      A system for financial companies, it's according to the JSOX to help the companies manage their documents, evidence, etc.
+
+  - **Responsibilities**
+    1. Manage the daily works of those projects.
+    1. Write the core functions of those systems.
+    1. Review the code, then write the checklist for those projects.
+    1. Train the new team members on `Java`, `Flex`, `C#` and debug skills.
 
 ### Education
 
