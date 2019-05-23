@@ -58,7 +58,22 @@ I have abilities to architect system software, distributed network system and ap
 
 ### Project Experience
 
-- **
+- *2017/08 ~ Present*
+
+  **Projects**
+    1. **Authentication Service**  
+        Authentication Service is an authentication center in the company, built with Spring Cloud and Spring Security. Most of the services and applications (include mobile APPs) rely on it.  
+    2. **Metadata Service**  
+        An independent service for metadata design, store, mapping, and query, that analyze the models' relationship and make the business service can query the various data in the same way.  
+    3. **API Lifecycle Management Service**  
+        Development tool for team cooperation improved the cooperation between the frontend team and the backend team.  
+    4. **JobEditor Service**  
+        A web editor for the Jenkins tasks' configurations, it was written with VueJS and Vuetify. Without any databases, only manipulate the GIT for storage.  
+    5. **DevOps Tools**  
+        A sticker tool connects the Jenkins, Kubernetes, Docker, and any other DevOps tools, create it to improve the development flows.
+
+  **Responsibilities**  
+    I created the above services alone, and for the services from 3 - 5, I've created them because of I know the problems exists in the team, thus I designed, architected and wrote them.
 
 ### Education
 
