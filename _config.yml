@@ -7,10 +7,10 @@ highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'https://zhangyanwei.github.com/note'
+domain_name: 'https://zhangyanwei.github.com'
 # google_analytics: 'UA-XXXXXXXX-X'
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'https://zhangyanwei.github.com/note'
+url:            'https://zhangyanwei.github.com'
 author:         'Verdigris'
