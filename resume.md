@@ -91,16 +91,16 @@ I have abilities to architect system software, distributed network system and ap
     1. Build the team. 
     1. Architect the system, write the core code(include the frontend written with `AngularJS`).
     1. Refactor the frontend to make it scalable.
-    1. Write other services and H5 for market development.
+    1. Write other services and `H5` for market development.
 
 - *2013/11 ~ 2015/12 **CloudGate***  
-  An SSO solution with enhanced security, it's for the cloud services in the company.  
+  An `SSO` solution with enhanced security, it's for the cloud services in the company.  
   **Responsibilities**
-    1. Write the implementation of OpenID Connect.
+    1. Write the implementation of `OpenID Connect`.
     1. Write the IT test framework and test cases.
     1. Write kinds of authentication methods and security rules.
 
-- *2012/09 ~ 2013/03 **TG-Document / MDT 3*** 
+- *2012/09 ~ 2013/03 **TG-Document / MDT 3***  
   An `iOS` application for PDF reading, will re-layout the characters when user zoom in/out the screen.  
   **Responsibilities**
     1. Manage the daily works of the project.
@@ -111,7 +111,7 @@ I have abilities to architect system software, distributed network system and ap
     1. **BDLMX 2.0**  
       XML document management system, written in VB.
     1. **MW 1.0 ~ 2.3**  
-      Next generation of XML document management system, provides the document online edit, version management, approve process management, publishing management, and other serials functions. It aims the financial companies' rule-kind document management.
+      Next generation of `XML` document management system, provides the document online edit, version management, approve process management, publishing management, and other serials functions. It aims the financial companies' rule-kind document management.
     1. **AQ**  
       An online tool for the materials‘ characteristics management, it was written with `Java` and `Flex`, with it the experts could manage the huge material's characteristics easily.
     1. **MEPA 1.0 ~ 2.3**  
