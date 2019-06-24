@@ -10,8 +10,7 @@ You maybe know in a typical manufacturing enterprise, they have many services ru
 The enterprise data maybe be saved or exposed in files, databases,  services' APIs, etc. If we are going to build multiple services above these data, that will be a big challenge, the connections between them will look like a net, and for the developers, they have to write the code in different languages and maintenance the versions separately.
 
 If we are asked to do some changes on these data, that will be hell!
-That's why we need to build an ESB to resolve this problem,  for further reading, should navigate to [What is API-led Connectivity?]
-(https://blogs.mulesoft.com/dev/api-dev/what-is-api-led-connectivity/).
+That's why we need to build an ESB to resolve this problem,  for further reading, should navigate to [What is API-led Connectivity?](https://blogs.mulesoft.com/dev/api-dev/what-is-api-led-connectivity/).
 
 In our organization, this will connect to thousands of devices and clients, it requires stable, scalable, and flexible, and the most important thing is the service can't stop if they are online.
 
