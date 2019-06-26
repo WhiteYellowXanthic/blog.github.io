@@ -14,6 +14,7 @@ If my workmates wanted to manipulate the Redis data, they had to update the Kube
 Thus, I wrote a simple script for them to manipulate the Redis data behind the Kubernetes.
 
 Here is the script snippet.
+In this snippet, I was using `getopt` to parse the input parameters, for the details about it, check [OSX 10.6.2 - man page for getopt (osx section 1)](https://www.unix.com/man-page/osx/1/getopt/).
 
 ```shell
 #!/usr/bin/env bash
