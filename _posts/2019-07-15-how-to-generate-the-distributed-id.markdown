@@ -2,7 +2,7 @@
 layout: post
 title:  "How to generate the distributed ID?"
 date:   2019-07-15 00:00:00
-categories: Batch
+categories: Java
 ---
 
 Maybe you already know how to write a `snowflake` ID generator, and also you know combined it to `zookeeper` will help you to generate the IDs safely and rapidly, but I guess you do not wanna write it again when you need it.
