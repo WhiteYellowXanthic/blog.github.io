@@ -1,6 +1,6 @@
-name: Verdigris' Book
+name: Kevin's Book
 description: Record any useful things or moments.
-meta_description: "A Jekyll Site, belongs to Verdigris."
+meta_description: "A Jekyll Site, belongs to Kevin."
 
 markdown: kramdown
 highlighter: rouge
@@ -13,4 +13,4 @@ plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url:            'https://zhangyanwei.github.com'
-author:         'Verdigris'
+author:         'Kevin'

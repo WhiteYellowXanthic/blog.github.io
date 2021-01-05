@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Verdigris' Resume 
+title: Kevin Zhang
 ---
 
 ### Personal Details
 
 |-------------|--------|
-|**Name**:|Yanwei Zhang| 
+|**Name**:|Kevin Zhang| 
 |**Date of Birth**:|1985/02/22|
 |**Gender**:|Male|
 |**Place of Living**:|Dalian|
@@ -23,8 +23,18 @@ I have abilities to architect system software, distributed network system and ap
 
 ### Career Summary
 
+- **Fidelity**  
+  *2019/08 ~ Present **Lead Software Engineer II***  
+  **Responsibilities**
+    1. Complete the stories in time to make sure the EPICs can be finished successfully.
+    2. Make the chart library powerful and easy to use.
+    3. Keep the code structure clean and maintainable while the new features introducing.
+    4. Write and maintain the scripts/pipelines running on the C2C server to make sure the team's official site and harness pages always online.
+    5. Help squad members more strong on the skills.
+    6. Drive the T3 initiative (Help the tribe members to resolve the daily issues more confidently).
+
 - **Zhong Wang Group**  
-  *2017/08 ~ Present **Architect***  
+  *2017/08 ~ 2019/08 **Principal Architect***  
   **Responsibilities**
     1. Create the infrastructure for the services running in Zhongwang Private Cloud.
     2. Write and maintain the framework to help the developers can focus on their business logic.
