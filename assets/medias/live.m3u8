@@ -99,8 +99,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8?checkedby:ipt
 http://117.169.124.149:8080/live/HD-8000k-1080P-heilongjiangstv/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",西藏卫视 (1080p)
 http://39.135.138.58:18890/PLTV/88888888/224/3221225723/index.m3u8
-#EXTINF:0 tvg-country="中国" group-title="中国",南方卫视 (576p)
-http://39.134.65.179/PLTV/88888888/224/3221225845/1.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",东南卫视 (1080p)
 http://111.40.196.9/PLTV/88888888/224/3221225516/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",东方影视 (720p)
@@ -179,15 +177,15 @@ http://198.16.64.10:8278/natgeohd_twn/playlist.m3u8?tid=ME0E9332119893321198&ct=
 http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 #EXTINF:0 group-title="中国,港澳台",HBO
 http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
-#EXTINF:0 tvg-country="中国" tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="国际",CGTN
+#EXTINF:0 tvg-country="中国" tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="国外",CN•CGTN
 http://live.cgtn.com/1000/prog_index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="中国" tvg-logo="https://i.imgur.com/TSG6WBy.png" group-title="国际",CGTN Documentary
+#EXTINF:0 tvg-country="中国" tvg-logo="https://i.imgur.com/TSG6WBy.png" group-title="国外",CN•CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="中国" group-title="国际",CNC
+#EXTINF:0 tvg-country="中国" group-title="国外",CN•CNC
 http://39.135.138.58:18890/PLTV/88888888/224/3221225693/index.m3u8
-#EXTINF:0 group-title="国际",Channel News Asia (HD)
+#EXTINF:0 group-title="国外",SG•Channel News Asia (HD)
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:0 group-title="国际",NHK (1080p)
+#EXTINF:0 group-title="国外",JP•NHK (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="国外",US•BBC America (720p)
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
@@ -199,6 +197,8 @@ http://198.16.64.10:8278/cnbc_twn/playlist.m3u8?tid=MA5A9732497897324978&ct=1922
 http://198.16.64.10:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 #EXTINF:0 group-title="国外",US•Fox News (1080p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="国外",US•Clarity 4K
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8
 #EXTINF:0 group-title="国外",UK•Fuel TV (1080p)
 https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 group-title="国外",UK•Bloomberg TV (1080p)
