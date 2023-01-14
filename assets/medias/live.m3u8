@@ -191,6 +191,8 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3
 https://bloomberg-quicktake-4-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="国外",NZ•GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:0 group-title="国外",NZ•Insight TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-samsungnz/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/2aHW4q7.png" group-title="国外",NZ•Parliament TV
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
 #EXTINF:0 group-title="国外",NZ•Real Stories
@@ -215,10 +217,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8
 https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 group-title="国外",UK•Bloomberg TV (1080p)
 https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="国外",NZ•GB News
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:0 group-title="国外",NZ•Insight TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-samsungnz/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Z4hIjPn.jpg" group-title="国外,少儿",US•Cocoro (1080p)
 https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="国外,少儿",UK•Moonbug Kids (1080p)
