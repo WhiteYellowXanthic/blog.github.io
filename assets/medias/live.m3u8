@@ -44,7 +44,7 @@ http://baidu.live.cqccn.com/__cl/cg:live/__c/neimengkuSD/__op/default/__f//index
 #EXTINF:0 tvg-country="中国" group-title="中国",北京卫视 (1080p)
 http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",吉林卫视 (1080p)
-http://117.169.124.149:8080/live/jilinstv/index.m3u8
+http://baidu.live.cqccn.com/__cl/cg:live/__c/jilinHD/__op/default/__f//index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",四川卫视 (1080p)
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226728/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",天津卫视 (1080p)
@@ -52,7 +52,7 @@ http://baidu.live.cqccn.com/__cl/cg:live/__c/tianjinHD/__op/default/__f//index.m
 #EXTINF:0 tvg-country="中国" group-title="中国",宁夏卫视 (1080p)
 http://baidu.live.cqccn.com/__cl/cg:live/__c/ningxia/__op/default/__f//index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",安徽卫视 (1080p)
-http://117.169.124.149:8080/live/HD-8000k-1080P-anhuistv/index.m3u8
+http://baidu.live.cqccn.com/__cl/cg:live/__c/anhuiSD/__op/default/__f//index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",山东卫视 (1080p)
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226739/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",山西卫视 (1080p)
@@ -60,17 +60,17 @@ http://baidu.live.cqccn.com/__cl/cg:live/__c/shanxiSD/__op/default/__f//index.m3
 #EXTINF:0 tvg-country="中国" group-title="中国",广东卫视 (1080p)
 http://baidu.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f//index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",广西卫视 (1080p)
-http://117.169.124.149:8080/live/guangxistv/index.m3u8
+http://baidu.live.cqccn.com/__cl/cg:live/__c/guangxiHD/__op/default/__f//index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",新疆卫视 (576p)
-http://117.169.124.149:8080/live/xinjiangstv/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",江苏卫视 (1080p)
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226902/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",江西卫视 (1080p)
-http://117.169.124.149:8080/live/HD-8000k-1080P-jiangxistv/index.m3u8
+http://baidu.live.cqccn.com/__cl/cg:live/__c/jiangxiHD/__op/default/__f//index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",河北卫视 (1080p)
-http://117.169.124.149:8080/live/hebeistv/index.m3u8
+http://baidu.live.cqccn.com/__cl/cg:live/__c/hebeiSD/__op/default/__f//index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",河南卫视 (1080p)
-http://117.169.124.149:8080/live/henanstv/index.m3u8
+http://baidu.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",浙江卫视 (1080p)
 http://39.134.65.179/PLTV/88888888/224/3221225514/1.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",海南卫视 (1080p)
@@ -82,7 +82,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226705/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",湖南卫视 (1080p)
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226727/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",甘肃卫视 (1080p)
-http://117.169.124.149:8080/live/gansustv/index.m3u8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225724/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",贵州卫视 (1080p)
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226874/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",辽宁卫视 (1080p)
@@ -106,9 +106,9 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226763/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",重庆卫视 (1080p)
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226737/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",云南卫视 (1080p)
-http://117.169.124.149:8080/live/yunnanstv/index.m3u8
+http://baidu.live.cqccn.com/__cl/cg:live/__c/yunnanSD/__op/default/__f//index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",陕西卫视 (576p)
-http://117.169.124.149:8080/live/shanxi1stv/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",青海卫视 (576p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="中国" group-title="中国",黑龙江卫视 (1080p)
