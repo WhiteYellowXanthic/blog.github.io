@@ -86,9 +86,25 @@ http://117.169.124.149:8080/live/gansustv/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",贵州卫视 (1080p)
 http://218.29.55.44:808/hls/36/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",辽宁卫视 (1080p)
-http://117.169.124.149:8080/live/HD-8000k-1080P-liaoningstv/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226731/index.m3u8
+#EXTINF:0 tvg-country="中国" group-title="中国",辽宁都市 (1080p)
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226760/index.m3u8
+#EXTINF:0 tvg-country="中国" group-title="中国",辽宁体育 (1080p)
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226764/index.m3u8
+#EXTINF:0 tvg-country="中国" group-title="中国",辽宁生活 (1080p)
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226761/index.m3u8
+#EXTINF:0 tvg-country="中国" group-title="中国",辽宁影视剧 (1080p)
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226738/index.m3u8
+#EXTINF:0 tvg-country="中国" group-title="中国",辽宁北方 (1080p)
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226755/index.m3u8
+#EXTINF:0 tvg-country="中国" group-title="中国",辽宁经济 (1080p)
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226735/index.m3u8
+#EXTINF:0 tvg-country="中国" group-title="中国",辽宁公共 (1080p)
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226766/index.m3u8
+#EXTINF:0 tvg-country="中国" group-title="中国",辽宁教育•青少 (1080p)
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226763/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",重庆卫视 (1080p)
-http://117.169.124.149:8080/live/HD-8000k-1080P-chongqingstv/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226737/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",云南卫视 (1080p)
 http://117.169.124.149:8080/live/yunnanstv/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",陕西卫视 (576p)
@@ -96,7 +112,7 @@ http://117.169.124.149:8080/live/shanxi1stv/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",青海卫视 (576p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="中国" group-title="中国",黑龙江卫视 (1080p)
-http://117.169.124.149:8080/live/HD-8000k-1080P-heilongjiangstv/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226749/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",西藏卫视 (1080p)
 http://39.135.138.58:18890/PLTV/88888888/224/3221225723/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",东南卫视 (1080p)
