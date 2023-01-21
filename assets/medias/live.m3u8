@@ -1,32 +1,32 @@
 #EXTM3U
 #EXTINF:0 tvg-id="CCTV1.cn" tvg-country="中国" group-title="中国",CCTV-1综合 (1080p)
-http://39.134.66.48/PLTV/88888888/224/3221225816/index.m3u8
+http://111.40.196.9/PLTV/88888888/224/3221225769/index.m3u8
 #EXTINF:0 tvg-id="CCTV2.cn" tvg-country="中国" group-title="中国",CCTV-2财经 (1080p)
-http://39.134.66.48/PLTV/88888888/224/3221225599/index.m3u8
+http://111.40.196.9/0000000000001001/1/index.m3u8?Contentid=1000000001000012442&livemode=1&stbId=2&channel-id=ystenlive
 #EXTINF:0 tvg-id="CCTV3.cn" tvg-country="中国" group-title="中国",CCTV-3综艺 (1080p)
-http://39.134.66.48/PLTV/88888888/224/3221225799/index.m3u8
+http://111.40.196.9/PLTV/88888888/224/3221225588/index.m3u8
 #EXTINF:0 tvg-id="CCTV4.cn" tvg-country="中国" group-title="中国",CCTV-4中文国际 (1080p)
 http://39.134.66.48/PLTV/88888888/224/3221225797/index.m3u8
 #EXTINF:0 tvg-id="CCTV5.cn" tvg-country="中国" group-title="中国",CCTV-5体育 (1080p)
-http://39.134.66.48/PLTV/88888888/224/3221225818/index.m3u8
+http://111.40.196.9/PLTV/88888888/224/3221225559/index.m3u8
 #EXTINF:0 tvg-id="CCTV5Plus.cn" tvg-country="中国" group-title="中国",CCTV-5+体育赛事 (1080p)
-http://39.134.66.48/PLTV/88888888/224/3221225507/index.m3u8
+http://111.40.196.9/PLTV/88888888/224/3221225767/index.m3u8
 #EXTINF:0 tvg-id="CCTV6.cn" tvg-country="中国" group-title="中国",CCTV-6电影 (1080p)
-http://39.134.66.48/PLTV/88888888/224/3221225814/index.m3u8
+http://111.40.196.9/0000000000001001/1/index.m3u8?Contentid=1000000001000016466&livemode=1&stbId=2&channel-id=ystenlive
 #EXTINF:0 tvg-id="CCTV7.cn" tvg-country="中国" group-title="中国",CCTV-7国防军事 (1080p)
-http://39.134.66.48/PLTV/88888888/224/3221225671/index.m3u8
+http://111.40.196.9/0000000000001001/1/index.m3u8?Contentid=1000000001000017218&livemode=1&stbId=2&channel-id=ystenlive
 #EXTINF:0 tvg-id="CCTV8.cn" tvg-country="中国" group-title="中国",CCTV-8电视剧 (1080p)
-http://39.134.66.48/PLTV/88888888/224/3221225795/index.m3u8
+http://111.40.196.9/PLTV/88888888/224/3221225592/index.m3u8
 #EXTINF:0 tvg-id="CCTV9.cn" tvg-country="中国" group-title="中国",CCTV-9纪录 (1080p)
 http://111.40.196.9/PLTV/88888888/224/3221225502/index.m3u8
 #EXTINF:0 tvg-id="CCTV10.cn" tvg-country="中国" group-title="中国",CCTV-10科教 (1080p)
-http://39.134.66.48/PLTV/88888888/224/3221225677/index.m3u8
+http://111.40.196.9/PLTV/88888888/224/3221225567/index.m3u8
 #EXTINF:0 tvg-id="CCTV11.cn" tvg-country="中国" group-title="中国",CCTV-11戏曲 (1080p)
-http://39.134.66.48/PLTV/88888888/224/3221225517/index.m3u8
+http://111.40.196.9/0000000000001001/1/index.m3u8?Contentid=1000000002000019789&livemode=1&stbId=2&channel-id=ystenlive
 #EXTINF:0 tvg-id="CCTV12.cn" tvg-country="中国" group-title="中国",CCTV-12社会与法制 (1080p)
-http://39.134.66.48/PLTV/88888888/224/3221225669/index.m3u8
+http://111.40.196.9/0000000000001001/1/index.m3u8?Contentid=1000000001000001640&livemode=1&stbId=2&channel-id=ystenlive
 #EXTINF:0 tvg-id="CCTV13.cn" tvg-country="中国" group-title="中国",CCTV-13新闻 (1080p)
-http://39.134.66.48/PLTV/88888888/224/3221225812/index.m3u8
+http://111.40.196.9/0000000000001001/1/index.m3u8?Contentid=6918130250570453526&livemode=1&stbId=2&channel-id=ystenlive
 #EXTINF:0 tvg-id="CCTV14.cn" tvg-country="中国" group-title="中国",CCTV-14少儿 (1080p)
 http://baidu.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8
 #EXTINF:0 tvg-id="CCTV15.cn" tvg-country="中国" group-title="中国",CCTV-15音乐 (1080p)
