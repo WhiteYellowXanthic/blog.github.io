@@ -144,7 +144,7 @@ http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国,港澳台" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png",凤凰中文 (HD)
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:0 group-title="中国,港澳台",TVB翡翠台
-http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
+http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
 #EXTINF:0 group-title="中国,港澳台",TVB翡翠华丽
 http://23.237.10.66:16410
 #EXTINF:0 group-title="中国,港澳台",澳亚卫视
@@ -158,13 +158,13 @@ http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&ts
 #EXTINF:0 group-title="中国,港澳台",公视
 http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
 #EXTINF:0 group-title="中国,港澳台",TVBS
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 #EXTINF:0 group-title="中国,港澳台",TVBS新闻台
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 #EXTINF:0 group-title="中国,港澳台",TVBS欢乐台
 http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
 #EXTINF:0 group-title="中国,港澳台",中天综合
-http://23.237.10.66:16372
+http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
 #EXTINF:0 group-title="中国,港澳台",中天娱乐
 http://198.16.64.10:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
 #EXTINF:0 group-title="中国,港澳台",中天新闻
@@ -181,6 +181,8 @@ http://198.16.64.10:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=
 http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 #EXTINF:0 group-title="中国,港澳台",东森新闻
 http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
+#EXTINF:0 group-title="中国,港澳台",东森财经新闻
+http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
 #EXTINF:0 group-title="中国,港澳台",东森幼幼台
 http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
 #EXTINF:0 group-title="中国,港澳台",年代新闻
