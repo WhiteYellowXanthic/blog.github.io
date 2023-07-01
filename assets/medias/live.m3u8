@@ -28,13 +28,13 @@ http://39.134.66.48/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",CCTV-13新闻 (1080p)
 http://39.134.66.48/PLTV/88888888/224/3221225812/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",CCTV-14少儿 (1080p)
-http://117.169.124.149:8080/live/HD-8000k-1080P-cctv14/index.m3u8
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cctvseHD
 #EXTINF:0 tvg-country="中国" group-title="中国",CCTV-15音乐 (1080p)
-http://117.169.124.149:8080/live/cctv-15/index.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 #EXTINF:0 tvg-country="中国" group-title="中国",CCTV-16奥林匹克 (4k)
-http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/index.m3u8
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=CCTV16_4K
 #EXTINF:0 tvg-country="中国" group-title="中国",CCTV-17农业农村 (1080p)
-http://39.135.138.59:18890/PLTV/88888910/224/3221225907/index.m3u8?checkedby:iptvcat.com
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cctv17HD
 #EXTINF:0 tvg-country="中国" group-title="中国",CETV-1 (576p)
 http://39.135.138.58:18890/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",东方卫视 (1080p)
@@ -121,50 +121,16 @@ http://111.40.196.9/PLTV/88888888/224/3221225620/index.m3u8
 http://111.40.196.9/PLTV/88888888/224/3221225618/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",NewTV惊悚悬疑
 http://111.40.196.9/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:0 tvg-country="中国" group-title="中国,港澳台" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png",凤凰资讯 (HD)
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:0 tvg-country="中国" group-title="中国,港澳台" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png",凤凰中文 (HD)
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:0 group-title="中国,港澳台",TVB翡翠台
-http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
-#EXTINF:0 group-title="中国,港澳台",TVB翡翠华丽
-http://23.237.10.66:16410
+#EXTINF:0 tvg-country="中国" group-title="中国,港澳台",凤凰资讯 (HD)
+http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+#EXTINF:0 tvg-country="中国" group-title="中国,港澳台",凤凰中文 (HD)
+http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 #EXTINF:0 group-title="中国,港澳台",澳亚卫视
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:0 group-title="中国,港澳台",澳门莲花
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:0 group-title="中国,港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:0 group-title="中国,港澳台",民视
-http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
-#EXTINF:0 group-title="中国,港澳台",公视
-http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
-#EXTINF:0 group-title="中国,港澳台",TVBS
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:0 group-title="中国,港澳台",TVBS新闻台
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:0 group-title="中国,港澳台",TVBS欢乐台
-http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
-#EXTINF:0 group-title="中国,港澳台",中天综合
-http://23.237.10.66:16372
-#EXTINF:0 group-title="中国,港澳台",中天娱乐
-http://198.16.64.10:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
-#EXTINF:0 group-title="中国,港澳台",中天新闻
-http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
-#EXTINF:0 group-title="中国,港澳台",中天亚洲台
-http://198.16.64.10:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
-#EXTINF:0 group-title="中国,港澳台",中视新闻
-http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da
-#EXTINF:0 group-title="中国,港澳台",卫视中文台
-http://198.16.64.10:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
-#EXTINF:0 group-title="中国,港澳台",三立综合
-http://198.16.64.10:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
-#EXTINF:0 group-title="中国,港澳台",无线新闻
-http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
-#EXTINF:0 group-title="中国,港澳台",东森新闻
-http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
-#EXTINF:0 group-title="中国,港澳台",年代新闻
-http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
 #EXTINF:0 group-title="中国,港澳台",探索频道
 http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
 #EXTINF:0 group-title="中国,港澳台",探索科学
@@ -213,58 +179,3 @@ https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="国外,少儿",Lego (720p)
 https://legochannel-vizio.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-country="日本" group-title="日本",Animax
-http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" group-title="日本",BS 12
-http://redlabmcdn.s.llnwi.net/nv02/bs08hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" group-title="日本",BS Asahi
-http://redlabmcdn.s.llnwi.net/nv02/bs04hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" group-title="日本",BS Fuji TV
-http://redlabmcdn.s.llnwi.net/nv02/bs07hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" group-title="日本",BS Nippon TV
-http://redlabmcdn.s.llnwi.net/nv02/bs03hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" group-title="日本",BS TV Tokyo
-http://redlabmcdn.s.llnwi.net/nv02/bs06hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" group-title="日本",BS-TBS
-http://redlabmcdn.s.llnwi.net/nv02/bs05hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" group-title="日本",J Sports 1
-http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" group-title="日本",J Sports 2
-http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" group-title="日本",Kirin
-http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" group-title="日本",MBS
-http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="日本",MX Live (Webcam)
-https://movie.mcas.jp/mcas/mx_live_2/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" group-title="日本",NHK BS1
-http://redlabmcdn.s.llnwi.net/nv02/bs01hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" group-title="日本",NHK BSP
-http://redlabmcdn.s.llnwi.net/nv02/bs02hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" group-title="日本",NHK E
-http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" group-title="日本",NHK G
-http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8?checkedby:iptvcat.com
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" group-title="日本",NTV News24 (480p)
-https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" group-title="日本",Nippon TV
-http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" tvg-logo="https://i.imgur.com/9u9TaMA.png" group-title="日本",QVC Japan
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="日本",购物 Channel
-https://stream3.shopch.jp/HLS/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" group-title="日本",Star 2
-http://redlabmcdn.s.llnwi.net/nv02/bs10hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" group-title="日本",Star 1
-http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" group-title="日本",TBS
-http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="日本",TV Tokyo
-http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="日本",Tokyo MX1
-https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="日本",Tokyo MX2
-https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="日本" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="日本",日本购物
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8?checkedby:iptvcat.com
