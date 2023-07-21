@@ -20,21 +20,23 @@ http://111.40.196.9/PLTV/88888888/224/3221225592/index.m3u8
 #EXTINF:0 tvg-id="CCTV9.cn" tvg-country="中国" group-title="中国",CCTV-9纪录 (1080p)
 http://111.40.196.9/PLTV/88888888/224/3221225502/index.m3u8
 #EXTINF:0 tvg-id="CCTV10.cn" tvg-country="中国" group-title="中国",CCTV-10科教 (1080p)
-http://111.40.196.9/PLTV/88888888/224/3221225567/index.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 #EXTINF:0 tvg-id="CCTV11.cn" tvg-country="中国" group-title="中国",CCTV-11戏曲 (1080p)
-http://111.40.196.9/0000000000001001/1/index.m3u8?Contentid=1000000002000019789&livemode=1&stbId=2&channel-id=ystenlive
+https://cntv.sbs/live?auth=2307100804&id=cctv11
 #EXTINF:0 tvg-id="CCTV12.cn" tvg-country="中国" group-title="中国",CCTV-12社会与法制 (1080p)
-http://111.40.196.9/0000000000001001/1/index.m3u8?Contentid=1000000001000001640&livemode=1&stbId=2&channel-id=ystenlive
+https://cntv.sbs/live?auth=2307100804&id=cctv12
 #EXTINF:0 tvg-id="CCTV13.cn" tvg-country="中国" group-title="中国",CCTV-13新闻 (1080p)
-http://111.40.196.9/0000000000001001/1/index.m3u8?Contentid=6918130250570453526&livemode=1&stbId=2&channel-id=ystenlive
+https://cntv.sbs/live?auth=2307100804&id=cctv13
 #EXTINF:0 tvg-id="CCTV14.cn" tvg-country="中国" group-title="中国",CCTV-14少儿 (1080p)
-http://60.208.16.27:1505/gudou.php?id=364&id=CCTV14HD_7000
+https://cntv.sbs/live?auth=2307100804&id=cctv14
 #EXTINF:0 tvg-id="CCTV15.cn" tvg-country="中国" group-title="中国",CCTV-15音乐 (1080p)
-http://60.208.16.27:1505/gudou.php?id=364&id=CCTV-15HD_7500
+https://cntv.sbs/live?auth=2307100804&id=cctv15
+#EXTINF:0 tvg-id="CCTV15.cn" tvg-country="中国" group-title="中国",CCTV-16奥林皮克 (1080p)
+https://cntv.sbs/live?auth=2307100804&id=cctv16
 #EXTINF:0 tvg-id="CCTV17.cn" tvg-country="中国" group-title="中国",CCTV-17农业农村 (1080p)
-http://60.208.16.27:1505/gudou.php?id=364&id=CCTV17HD
+https://cntv.sbs/live?auth=2307100804&id=cctv17
 #EXTINF:0 tvg-id="CETV1.cn" tvg-country="中国" group-title="中国",CETV-1 (1080p)
-https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000
+https://cntv.sbs/live?auth=2307100804&id=cetv1
 #EXTINF:0 tvg-id="CETV1.cn" tvg-country="中国" group-title="中国",CETV-2 (1080p)
 http://txycsbl.centv.cn/zb/0822cetv2.m3u8
 #EXTINF:0 tvg-id="CETV1.cn" tvg-country="中国" group-title="中国",CETV-3 (720p)
@@ -48,37 +50,37 @@ http://125.210.152.19:9120/live/hszx-nmgtv-h264.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",北京卫视 (1080p)
 http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",吉林卫视 (1080p)
-http://baidu.live.cqccn.com/__cl/cg:live/__c/jilinHD/__op/default/__f//index.m3u8
+https://cntv.sbs/live?auth=2307100804&id=jlws
 #EXTINF:0 tvg-country="中国" group-title="中国",四川卫视 (1080p)
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226728/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",天津卫视 (1080p)
-http://baidu.live.cqccn.com/__cl/cg:live/__c/tianjinHD/__op/default/__f//index.m3u8
+https://cntv.sbs/live?auth=2307100804&id=tjws
 #EXTINF:0 tvg-country="中国" group-title="中国",宁夏卫视 (1080p)
-http://baidu.live.cqccn.com/__cl/cg:live/__c/ningxia/__op/default/__f//index.m3u8
+https://cntv.sbs/live?auth=2307100804&id=nxws
 #EXTINF:0 tvg-country="中国" group-title="中国",安徽卫视 (1080p)
-http://baidu.live.cqccn.com/__cl/cg:live/__c/anhuiSD/__op/default/__f//index.m3u8
+https://cntv.sbs/live?auth=2307100804&id=ahws
 #EXTINF:0 tvg-country="中国" group-title="中国",山东卫视 (1080p)
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226739/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",山西卫视 (1080p)
-http://baidu.live.cqccn.com/__cl/cg:live/__c/shanxiSD/__op/default/__f//index.m3u8
+http://live.cooltv.top/tv/tide.php?id=sxiws2
 #EXTINF:0 tvg-country="中国" group-title="中国",广东卫视 (1080p)
-http://baidu.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f//index.m3u8
+https://cntv.sbs/live?auth=2307100804&id=gdws
 #EXTINF:0 tvg-country="中国" group-title="中国",广西卫视 (1080p)
-http://baidu.live.cqccn.com/__cl/cg:live/__c/guangxiHD/__op/default/__f//index.m3u8
+https://cntv.sbs/live?auth=2307100804&id=gxws
 #EXTINF:0 tvg-country="中国" group-title="中国",新疆卫视 (576p)
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",江苏卫视 (1080p)
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226902/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",江西卫视 (1080p)
-http://baidu.live.cqccn.com/__cl/cg:live/__c/jiangxiHD/__op/default/__f//index.m3u8
+https://cntv.sbs/live?auth=2307100804&id=jxws
 #EXTINF:0 tvg-country="中国" group-title="中国",河北卫视 (1080p)
-http://baidu.live.cqccn.com/__cl/cg:live/__c/hebeiSD/__op/default/__f//index.m3u8
+https://cntv.sbs/live?auth=2307100804&id=hbws
 #EXTINF:0 tvg-country="中国" group-title="中国",河南卫视 (1080p)
-http://baidu.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f//index.m3u8
+https://cntv.sbs/live?auth=2307100804&id=hnws
 #EXTINF:0 tvg-country="中国" group-title="中国",浙江卫视 (1080p)
 http://39.134.65.179/PLTV/88888888/224/3221225514/1.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",海南卫视 (1080p)
-http://baidu.live.cqccn.com/__cl/cg:live/__c/hainanSD/__op/default/__f//index.m3u8
+https://cntv.sbs/live?auth=2307100804&id=hinws
 #EXTINF:0 tvg-country="中国" group-title="中国",深圳卫视 (1080p)
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226725/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",湖北卫视 (1080p)
@@ -86,9 +88,9 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226705/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",湖南卫视 (1080p)
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226727/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",甘肃卫视 (1080p)
-http://39.135.138.60:18890/PLTV/88888910/224/3221225724/index.m3u8
+https://cntv.sbs/live?auth=2307100804&id=gsws
 #EXTINF:0 tvg-country="中国" group-title="中国",贵州卫视 (1080p)
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226874/index.m3u8
+https://cntv.sbs/live?auth=2307100804&id=gzws
 #EXTINF:0 tvg-country="中国" group-title="中国",辽宁卫视 (1080p)
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226731/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",辽宁都市 (1080p)
@@ -112,99 +114,49 @@ http://live.cooltv.top/tv/cutv.php?id=dlxwzh
 #EXTINF:0 tvg-country="中国" group-title="中国",重庆卫视 (1080p)
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226737/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",云南卫视 (1080p)
-http://baidu.live.cqccn.com/__cl/cg:live/__c/yunnanSD/__op/default/__f//index.m3u8
+https://cntv.sbs/live?auth=2307100804&id=ynws
 #EXTINF:0 tvg-country="中国" group-title="中国",陕西卫视 (576p)
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",青海卫视 (576p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8?checkedby:iptvcat.com
+https://cntv.sbs/live?auth=2307100804&id=qhws
 #EXTINF:0 tvg-country="中国" group-title="中国",黑龙江卫视 (1080p)
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226749/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",西藏卫视 (1080p)
-http://39.135.138.58:18890/PLTV/88888888/224/3221225723/index.m3u8
+https://cntv.sbs/live?auth=2307100804&id=xzws
 #EXTINF:0 tvg-country="中国" group-title="中国",东南卫视 (1080p)
-http://111.40.196.9/PLTV/88888888/224/3221225516/index.m3u8
+http://222.175.159.226:808/hls/202350/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",东方影视 (720p)
 http://111.40.196.9/PLTV/88888888/224/3221225615/index.m3u8
-#EXTINF:0 tvg-country="中国" group-title="中国",生活时尚 (720p)
-http://111.40.196.9/PLTV/88888888/224/3221225501/index.m3u8
-#EXTINF:0 tvg-country="中国" group-title="中国",NewTV农业致富
-http://111.40.196.9/PLTV/88888888/224/3221225636/index.m3u8
-#EXTINF:0 tvg-country="中国" group-title="中国",NewTV精品纪录
-http://111.40.196.9/PLTV/88888888/224/3221225630/index.m3u8
-#EXTINF:0 tvg-country="中国" group-title="中国",NewTV军旅剧场
-http://111.40.196.9/PLTV/88888888/224/3221225622/index.m3u8
-#EXTINF:0 tvg-country="中国" group-title="中国",NewTV潮妈辣婆
-http://111.40.196.9/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:0 tvg-country="中国" group-title="中国",NewTV爱情喜剧
-http://111.40.196.9/PLTV/88888888/224/3221225616/index.m3u8
-#EXTINF:0 tvg-country="中国" group-title="中国",NewTV动作电影
-http://111.40.196.9/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:0 tvg-country="中国" group-title="中国",NewTV古装剧场
-http://111.40.196.9/PLTV/88888888/224/3221225618/index.m3u8
-#EXTINF:0 tvg-country="中国" group-title="中国",NewTV惊悚悬疑
-http://111.40.196.9/PLTV/88888888/224/3221225638/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国,港澳台",凤凰资讯 (HD)
 http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国,港澳台",凤凰中文 (HD)
 http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 #EXTINF:0 group-title="中国,港澳台",澳亚卫视
-https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+http://60.208.16.27:1505/gudou.php?id=364&id=aoya_1500
 #EXTINF:0 group-title="中国,港澳台",澳门莲花
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:0 group-title="中国,港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:0 group-title="中国,港澳台",探索频道
-http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
-#EXTINF:0 group-title="中国,港澳台",探索科学
-http://198.16.64.10:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
-#EXTINF:0 group-title="中国,港澳台",探索亚洲
-http://198.16.64.10:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
-#EXTINF:0 group-title="中国,港澳台",国家地理
-http://198.16.64.10:8278/natgeohd_twn/playlist.m3u8?tid=ME0E9332119893321198&ct=19225&tsum=86a42e161c519916f498348c3c672787
-#EXTINF:0 group-title="中国,港澳台",动物星球
-http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
-#EXTINF:0 group-title="中国,港澳台",HBO
-http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
+#EXTINF:0 group-title="中国,港澳台",TVBS
+http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
 #EXTINF:0 tvg-country="中国" tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="国外",CN•CGTN
 http://live.cgtn.com/1000/prog_index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="中国" tvg-logo="https://i.imgur.com/TSG6WBy.png" group-title="国外",CN•CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="中国" group-title="国外",CN•CNC
-http://39.135.138.58:18890/PLTV/88888888/224/3221225693/index.m3u8
 #EXTINF:0 group-title="国外",SG•Channel News Asia (HD)
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:0 group-title="国外",NZ•Bloomberg Quicktake
 https://bloomberg-quicktake-4-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="国外",NZ•GB News
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:0 group-title="国外",NZ•Insight TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-samsungnz/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/2aHW4q7.png" group-title="国外",NZ•Parliament TV
-https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
-#EXTINF:0 group-title="国外",NZ•Real Stories
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstoriesnz-samsungnz/playlist.m3u8
-#EXTINF:0 group-title="国外",NZ•Real Wild
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
 #EXTINF:0 group-title="国外",JP•NHK (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="国外",US•BBC America (720p)
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="国外",US•Brat TV (1080p)
 https://brat-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="国外",US•CNBC (720p)
-http://198.16.64.10:8278/cnbc_twn/playlist.m3u8?tid=MA5A9732497897324978&ct=19225&tsum=268e38e98d745f914c001c83d98b4b60
-#EXTINF:0 tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="国外",US•CNN (720p)
-http://198.16.64.10:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 #EXTINF:0 group-title="国外",US•Fox News (1080p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="国外",US•Clarity 4K
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8
-#EXTINF:0 group-title="国外",UK•Fuel TV (1080p)
-https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 group-title="国外",UK•Bloomberg TV (1080p)
 https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Z4hIjPn.jpg" group-title="国外,少儿",US•Cocoro (1080p)
-https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="国外,少儿",UK•Moonbug Kids (1080p)
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="国外,少儿",Lego (720p)
