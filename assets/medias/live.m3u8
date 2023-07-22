@@ -22,7 +22,7 @@ http://111.40.196.9/PLTV/88888888/224/3221225502/index.m3u8
 #EXTINF:0 tvg-id="CCTV10.cn" tvg-country="中国" group-title="中国",CCTV-10科教 (1080p)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 #EXTINF:0 tvg-id="CCTV11.cn" tvg-country="中国" group-title="中国",CCTV-11戏曲 (1080p)
-https://cntv.sbs/live?auth=2307100804&id=cctv11
+http://60.208.16.27:1505/gudou.php?id=364&id=CCTV-11HD_7500
 #EXTINF:0 tvg-id="CCTV12.cn" tvg-country="中国" group-title="中国",CCTV-12社会与法制 (1080p)
 https://cntv.sbs/live?auth=2307100804&id=cctv12
 #EXTINF:0 tvg-id="CCTV13.cn" tvg-country="中国" group-title="中国",CCTV-13新闻 (1080p)
@@ -59,12 +59,40 @@ https://cntv.sbs/live?auth=2307100804&id=tjws
 https://cntv.sbs/live?auth=2307100804&id=nxws
 #EXTINF:0 tvg-country="中国" group-title="中国",安徽卫视 (1080p)
 https://cntv.sbs/live?auth=2307100804&id=ahws
+#EXTINF:0 tvg-country="中国" group-title="中国",梨园频道 (1080p)
+http://60.208.16.27:1505/gudou.php?id=364&id=1937
+#EXTINF:0 tvg-country="中国" group-title="中国",武术世界 (1080p)
+http://60.208.16.27:1505/gudou.php?id=364&id=1938
 #EXTINF:0 tvg-country="中国" group-title="中国",山东卫视 (1080p)
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226739/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",山西卫视 (1080p)
 http://live.cooltv.top/tv/tide.php?id=sxiws2
 #EXTINF:0 tvg-country="中国" group-title="中国",广东卫视 (1080p)
 https://cntv.sbs/live?auth=2307100804&id=gdws
+#EXTINF:0 tvg-country="中国" group-title="中国",广东新闻 (1080p)
+http://60.208.16.27:1505/gudou.php?id=364&id=1454_4500
+#EXTINF:0 tvg-country="中国" group-title="中国",广东体育 (1080p)
+http://60.208.16.27:1505/gudou.php?id=364&id=1413_4500
+#EXTINF:0 tvg-country="中国" group-title="中国",广东民生 (1080p)
+http://60.208.16.27:1505/gudou.php?id=364&id=1455_4500
+#EXTINF:0 tvg-country="中国" group-title="中国",广东少儿 (1080p)
+http://60.208.16.27:1505/gudou.php?id=364&id=1457_4500
+#EXTINF:0 tvg-country="中国" group-title="中国",广东经济科教 (1080p)
+http://60.208.16.27:1505/gudou.php?id=364&id=GDjingjikejiaoHD_7000
+#EXTINF:0 tvg-country="中国" group-title="中国",嘉佳卡通 (1080p)
+http://60.208.16.27:1505/gudou.php?id=364&id=1459
+#EXTINF:0 tvg-country="中国" group-title="中国",岭南戏曲 (1080p)
+http://60.208.16.27:1505/gudou.php?id=364&id=1460
+#EXTINF:0 tvg-country="中国" group-title="中国",广东影视 (1080p)
+http://60.208.16.27:1505/gudou.php?id=364&id=1458_4500
+#EXTINF:0 tvg-country="中国" group-title="中国",广东珠江 (1080p)
+http://60.208.16.27:1505/gudou.php?id=364&id=gdzhujiangHD_7500
+#EXTINF:0 tvg-country="中国" group-title="中国",广东4K (2160p)
+http://60.208.16.27:1505/gudou.php?id=364&id=GDZYHD4K_38000
+#EXTINF:0 tvg-country="中国" group-title="中国",大湾区卫视 (1080p)
+http://60.208.16.27:1505/gudou.php?id=364&id=1456_4500
+#EXTINF:0 tvg-country="中国" group-title="中国",导视 (1080p)
+http://60.208.16.27:1505/gudou.php?id=364&id=GHDdaoshi_7500
 #EXTINF:0 tvg-country="中国" group-title="中国",广西卫视 (1080p)
 https://cntv.sbs/live?auth=2307100804&id=gxws
 #EXTINF:0 tvg-country="中国" group-title="中国",新疆卫视 (576p)
@@ -109,6 +137,8 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226735/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226766/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",辽宁教育•青少 (1080p)
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226763/index.m3u8
+#EXTINF:0 tvg-country="中国" group-title="中国",三沙卫视 (1080p)
+http://60.208.16.27:1505/gudou.php?id=364&id=1453_4500
 #EXTINF:0 tvg-country="中国" group-title="中国",大连新闻 (1080p)
 http://live.cooltv.top/tv/cutv.php?id=dlxwzh
 #EXTINF:0 tvg-country="中国" group-title="中国",重庆卫视 (1080p)
@@ -127,10 +157,22 @@ https://cntv.sbs/live?auth=2307100804&id=xzws
 http://222.175.159.226:808/hls/202350/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国",东方影视 (720p)
 http://111.40.196.9/PLTV/88888888/224/3221225615/index.m3u8
+#EXTINF:0 tvg-country="中国" group-title="中国",求索记录 (1080p)
+http://60.208.16.27:1505/gudou.php?id=364&id=QSJLHD_7000
+#EXTINF:0 tvg-country="中国" group-title="中国",求索科学 (1080p)
+http://60.208.16.27:1505/gudou.php?id=364&id=qiusuokexueHD_7000
+#EXTINF:0 tvg-country="中国" group-title="中国",求索动物 (1080p)
+http://60.208.16.27:1505/gudou.php?id=364&id=QSDWHD_7000
+#EXTINF:0 tvg-country="中国" group-title="中国",求索生活 (1080p)
+http://60.208.16.27:1505/gudou.php?id=364&id=1612
+#EXTINF:0 tvg-country="中国" group-title="中国",魅力足球 (1080p)
+http://60.208.16.27:1505/gudou.php?id=364&id=meiliyinyueHD_7000
 #EXTINF:0 tvg-country="中国" group-title="中国,港澳台",凤凰资讯 (HD)
 http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 #EXTINF:0 tvg-country="中国" group-title="中国,港澳台",凤凰中文 (HD)
 http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+#EXTINF:0 tvg-country="中国" group-title="中国,港澳台",星空
+http://60.208.16.27:1505/gudou.php?id=364&id=xingkong_1500
 #EXTINF:0 group-title="中国,港澳台",澳亚卫视
 http://60.208.16.27:1505/gudou.php?id=364&id=aoya_1500
 #EXTINF:0 group-title="中国,港澳台",澳门莲花
