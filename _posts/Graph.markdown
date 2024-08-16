@@ -1,5 +1,8 @@
 ---
 layout: post
+title:  "图论"
+date:   2024-8-16 14:20:00
+categories: 笔记
 ---
 
 # 图论
