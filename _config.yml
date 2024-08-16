@@ -1,16 +1,16 @@
-name: Kevin's Book
+name: Zhangyaiwei's Blog
 description: Record any useful things or moments.
-meta_description: "A Jekyll Site, belongs to Kevin."
+meta_description: "\"这个人太懒了，没能把所有都留下\""
 
 markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'https://zhangyanwei.github.com'
+domain_name: 'https://www.luogu.com.cn/user/684245'
 # google_analytics: 'UA-XXXXXXXX-X'
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'https://zhangyanwei.github.com'
-author:         'Kevin'
+url:            'https://www.luogu.com.cn/user/684245'
+author:         'Zhangyaiwei'
